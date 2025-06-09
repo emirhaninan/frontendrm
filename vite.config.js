@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/frontendrm/', // Replace with your repository name
+  base: '/frontendrm/', // This should match your GitHub repository name
 })
